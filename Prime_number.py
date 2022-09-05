@@ -1,4 +1,4 @@
-# Finding Prime numbers between given number
+# Finding Prime numbers between given number-1
 # Date of modification = 09/01/2022
 
 Name =input("Please Enter your name?")
